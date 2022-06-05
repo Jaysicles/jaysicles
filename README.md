@@ -10,10 +10,8 @@
 > - ⚡ Fun fact » **The grass is green**
 
 
-# Socials
+<!--# Socials
 
 <a href="https://twitter.com/jaayoff">
 <img alt="Personal Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/584px-Twitter-logo.svg.png" width=50 height=40>
-</a>
-
-`More social medias coming soon...`
+</a>-->
