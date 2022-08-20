@@ -2,7 +2,7 @@
 
 > **I'm 17 years old from the United Kingdom and have a passion for computer science and for video games. I've always wanted to be a programmer, and hopefully I can make that dream come true.**
 > 
-> I also like to configure plugins and make server setups.
+> I also like to configure minecraft plugins for servers.
 >
 > - 🔭 I’m currently working on **Personal Projects**
 > - 🌱 I’m currently learning **Java, HTML & CSS**
