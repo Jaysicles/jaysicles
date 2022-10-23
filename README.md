@@ -5,7 +5,7 @@
 > I also like to configure minecraft plugins for servers.
 >
 > - 🔭 I’m currently working on **Personal Projects**
-> - 🌱 I’m currently learning **Java, HTML & CSS**
+> - 🌱 I’m currently learning **HTML & CSS Front-end**
 > - 😄 Pronouns » **he/him**
 > - ⚡ Fun fact » **The grass is green**
 
