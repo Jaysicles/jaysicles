@@ -1,4 +1,4 @@
-### <h1>Hey there, I'm Jay 👋</h1>
+### <h1>Hiya, I'm Jay 👋</h1>
 
 > **I'm 18 years old from the United Kingdom and have a passion for computer science and for video games. I've always wanted to be a programmer, and hopefully I can make that dream come true.**
 > 
