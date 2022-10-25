@@ -16,12 +16,12 @@
 
 <h3 align="center">Profile Stats</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaaydoesstuff&label=Profile%20views&color=0e75b6&style=flat" alt="jaaydoesstuff" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaaydoesstuff&label=Profile%20views&color=0e75b6&style=flat" alt="jaaydoesstuff" /> </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaaydoesstuff&show_icons=true&locale=en&layout=compact" alt="jaaydoesstuff" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaaydoesstuff&show_icons=true&locale=en" alt="jaaydoesstuff" /></p>
-
+<br>
 <h3 align="center">Trophies</h3>
 
 <p align="center> <img src="https://komarev.com/ghpvc/?username=jaaydoesstuff&label=Profile%20views&color=0e75b6&style=flat" alt="jaaydoesstuff" /> </p>
