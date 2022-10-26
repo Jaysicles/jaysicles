@@ -1,10 +1,8 @@
 <h1 align="center">Hiya, I'm Jay 👋</h1>
 <h3 align="center">I'm 18 years old, an aspiring & passionate Front-End Web Developer from the United Kingdom</h3>
 
-> 
-> - 🌱 I’m currently learning **HTML & CSS**
-> - ⚡ Fun fact » **The grass is green**
-> - 😄 Pronouns » **he/him**
+
+<h4 align="center">🌱 I’m currently learning HTML & CSS | ⚡ The grass is green | 😄 he/him</h4>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">No socials yet
