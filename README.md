@@ -5,7 +5,7 @@
 <h4 align="center">🌱 I’m currently learning HTML & CSS | ⚡ The grass is green | 😄 he/him</h4>
 
 <h3 align="left">Connect with me</h3>
-<p align="left">No socials yet
+<p align="left">GitHub - /jaysicles
 </p>
 
 <h3 align="left">Languages and Tools I use</h3>
@@ -16,7 +16,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaysicles&label=Profile%20views&color=0e75b6&style=flat" alt="jaysicles /> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysicles&show_icons=true&locale=en&layout=compact" alt="jaysicles" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysicles&show_icons=true&locale=en&layout=compact" alt="jaysicles" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaysicles&show_icons=true&locale=en" alt="jaysicles" /></p>
 <br>
