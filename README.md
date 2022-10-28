@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me</h3>
 
-- ![GitHub](https://github.com/Jaysicles)
+- [GitHub](https://github.com/Jaysicles)
 
-- ![Portfolio](https://jaysicles.github.io/responsive-website/)  
+- [Portfolio](https://jaysicles.github.io/responsive-website/)  
 </p>
 
 <h3 align="left">Languages and Tools I use</h3>
