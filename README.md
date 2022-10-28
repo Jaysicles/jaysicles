@@ -4,8 +4,12 @@
 
 <h4 align="center">🌱 I’m currently learning HTML & CSS | ⚡ The grass is green | 😄 he/him</h4>
 
+
 <h3 align="left">Connect with me</h3>
-<p align="left">GitHub - /jaysicles
+
+- ![GitHub](https://github.com/Jaysicles)
+
+- ![Portfolio](https://jaysicles.github.io/responsive-website/)  
 </p>
 
 <h3 align="left">Languages and Tools I use</h3>
