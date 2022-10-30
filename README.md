@@ -24,8 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaysicles&show_icons=true&locale=en" alt="jaysicles" /></p>
 <br>
-<h3 align="center">Trophies</h3>
-
-<p align="center> <img src="https://komarev.com/ghpvc/?username=jaysicles&label=Profile%20views&color=0e75b6&style=flat" alt="jaysicles" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaysicles" alt="jaysicles" /></a> </p>
