@@ -1,26 +1,28 @@
+
 <h1 align="center">Hiya, I'm Jay 👋</h1>
+
+
 <h3 align="center">I'm 18 years old, an aspiring & passionate Front-End Web Developer from the United Kingdom</h3>
 
+<h3 align="left">🌱 Connect with me</h3>
 
-<h4 align="center">🌱 I’m currently learning HTML & CSS | ⚡ The grass is green | 😄 he/him</h4>
-
-
-<h3 align="left">Connect with me</h3>
+[![Gmail Badge](https://img.shields.io/badge/-jaysicles22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaysicles22@gmail.com)](mailto:mdraanik12@gmail.com)
 
 - [GitHub](https://github.com/Jaysicles)
 
 - [Portfolio](https://jaysicles.github.io/responsive-website/)  
 </p>
 
-<h3 align="left">Languages and Tools I use</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<h3 align="left">⚡ Languages and Tools I use</h3>
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<h3 align="center">Profile Stats</h3>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jaysicles&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysicles&hide=TeX&layout=compact)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaysicles&label=Profile%20views&color=0e75b6&style=flat" alt="jaysicles /> </p>
+<h3 align="left">😄 Profile Stats</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysicles&show_icons=true&locale=en&layout=compact" alt="jaysicles" /></p> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaysicles&show_icons=true&locale=en" alt="jaysicles" /></p>
-<br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Jaysicles)
