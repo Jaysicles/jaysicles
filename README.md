@@ -2,7 +2,9 @@
 
 <h3 align="left">⭐ About Me</h3>
 
-<h3 align="center">I'm 18 years old, an aspiring & passionate Front-End Web Developer from the United Kingdom. I would like to endure a career with learning a variety of programming languages.</h3>
+<h3 align="center">I'm 18 years old, an aspiring & passionate Front-End Web Developer from the United Kingdom. 
+
+I hope to one day endure a career as a programmer.</h3>
 
 <h3 align="left">🌱 Connect with me</h3>
 
