@@ -1,6 +1,8 @@
 <img src="https://i.imgur.com/bzEL8Pi.png">
 
-<h3 align="center">I'm 18 years old, an aspiring & passionate Front-End Web Developer from the United Kingdom</h3>
+<h3 align="left">⭐ About Me</h3>
+
+<h3 align="center">I'm 18 years old, an aspiring & passionate Front-End Web Developer from the United Kingdom. I would like to endure a career with learning a variety of programming languages.</h3>
 
 <h3 align="left">🌱 Connect with me</h3>
 
@@ -19,3 +21,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jaysicles&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysicles&hide=TeX&layout=compact)
 
+<h2 align="center">🏹 Thanks for checking out my GitHub Profile! 🏹</h2>
