@@ -18,9 +18,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<h3 align="left">😄 Profile Stats</h3>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jaysicles&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysicles&hide=TeX&layout=compact)
-
-<h3 align="left">😄 Profile Stats</h3>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Jaysicles)
