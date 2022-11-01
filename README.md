@@ -1,4 +1,4 @@
-<h1 align=center>Hiya 👋 I'm Jay</h1>
+<img src="https://i.imgur.com/bzEL8Pi.png">
 
 <h3 align="center">I'm 18 years old, an aspiring & passionate Front-End Web Developer from the United Kingdom</h3>
 
