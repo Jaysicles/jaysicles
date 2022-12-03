@@ -1,7 +1,7 @@
 <!-- <img src="https://i.imgur.com/bzEL8Pi.png"> -->
 
 # 💫 About Me
-I'm 18 years old, an aspiring & passionate Front-End Web Developer (Learning Full-Stack) and Cybersecurity fan from the UK.<br><br>I hope to one day endure a career as a programmer.<br><br>I am also learning Norwegian & Portuguese
+I'm 18 years old, an aspiring & passionate Front-End Web Developer (Learning Full-Stack) and Cybersecurity fan from the UK. I do all sorts of things on the side, along with being a bit of a weeb.<br><br>I hope to one day endure a career as a programmer.<br><br>I am also learning Norwegian & Portuguese
 
 
 ## 🌐 Socials
