@@ -1,7 +1,7 @@
 <!-- <img src="https://i.imgur.com/bzEL8Pi.png"> -->
 
 # 💫 About Me
-I'm 18 years old, an aspiring & passionate Front-End Web Developer (Learning Full-Stack) and Cybersecurity fan from the UK. I do all sorts of things on the side. I hope to one day endure a career as a programmer.<br><br> <strong>FUN FACTS</strong><br> Learning Norwegian & Portuguese<br>Purple is my favourite colour
+Sup! Name's Jay, I'm 18 years old, an aspiring & passionate Front-End Web Developer (Learning Full-Stack) and Cybersecurity fan-more-enthuasist from the UK. I do all sorts of things on the side. I hope to one day endure a career as a programmer.<br><br> <strong>FUN FACTS</strong><br> Learning Norwegian & Portuguese<br>Purple is my favourite colour<br>I have a certificate for climbing
 
 
 ## 🌐 Socials
