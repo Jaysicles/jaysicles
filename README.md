@@ -17,7 +17,6 @@ Sup! Name's Jay, I'm 18 years old, an aspiring & passionate Front-End Web Develo
 <h2 align=center>📊 GitHub Stats</h2>
 
 
-![](https://github-readme-stats.vercel.app/api?username=Jaysicles&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysicles&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
